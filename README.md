@@ -1,5 +1,6 @@
 # base-adapter
 Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+引用的鸿洋大神的万能适配器
 
 [点击查看简单介绍](http://blog.csdn.net/lmj623565791/article/details/51118836)
 
